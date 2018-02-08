@@ -54,6 +54,9 @@ Create a database of your choice in PhpMyAdmin.
 
 *  PHP
 *  Bootstrap CSS 4.0
+* .htaccess
+*  Mysql 
+*  Apache Server
 
 ## Authors
 
