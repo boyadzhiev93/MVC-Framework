@@ -53,7 +53,7 @@ Create a database of your choice in PhpMyAdmin.
 ## Built With
 
 *  PHP
-*  Bootstrap CSS 4.0
+*  Bootstrap
 * .htaccess
 *  Mysql 
 *  Apache Server
