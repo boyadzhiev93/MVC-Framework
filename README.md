@@ -52,8 +52,8 @@ Create a database of your choice in PhpMyAdmin.
 
 ## Built With
 
-* [Dropwizard] PHP
-* [Maven] Bootstrap CSS 4.0
+*  PHP
+*  Bootstrap CSS 4.0
 
 ## Authors
 
